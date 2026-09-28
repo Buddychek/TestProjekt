@@ -1,4 +1,10 @@
 instructions: sprich bzw. schreibe mich immer auf deutsch an
+scripts:
+  - name: DevDev
+    command: npm run dev
+    triggers: 
+      - session.create
+      - session.archive
 automation:
   auto_issue_session: true
   remote_control: false
