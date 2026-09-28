@@ -9,8 +9,6 @@
         "ms-azuretools.vscode-azure-mcp-server",
         "ms-azuretools.vscode-azurestaticwebapps",
         "ms-vscode.vscode-node-azure-pack",
-        "jacqueslucke.blender-development",
-        "vaulttec-dev.snakeflow-dev-manager",
-        "cybrium-ai.cybrium"
+        "jacqueslucke.blender-development"
     ]
 }

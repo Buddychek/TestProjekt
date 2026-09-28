@@ -10,7 +10,6 @@
         "ms-azuretools.vscode-azurestaticwebapps",
         "ms-vscode.vscode-node-azure-pack",
         "jacqueslucke.blender-development",
-        "vaulttec-dev.snakeflow-dev-manager",
-        "cybrium-ai.cybrium"
+        "vaulttec-dev.snakeflow-dev-manager"
     ]
 }
