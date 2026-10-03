@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "D:/DockerVisual/VSCode Work"
+		}
+	],
+	"settings": {
+		"lmstudio.baseUrl": "http://192.168.0.54:1234/v1"
+	}
+}
